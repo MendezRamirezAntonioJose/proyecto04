@@ -4,4 +4,5 @@
 1. src: Carpeta source del proyecto.
 
 **En este proyecto se usan operadores de agregaciones como $group, $match, $project, ...**
+
 _Realizado por Antonio José Méndez Ramírez, alumno de 1ºDAM del IES Punta Del Verde_
